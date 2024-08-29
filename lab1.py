@@ -24,9 +24,9 @@ radius = 3
 volume = (3/4) * math.pi **3
 print('the volume of the sphere with', radius, 'is' ,volume )
 A= 3
-B= 6
+B= 4
 import math
-c= (A**2+B**2)**2
+c= (A**2+B**2) **2
 print(c)
 
 
